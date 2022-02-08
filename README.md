@@ -1,2 +1,2 @@
-# cv_html_practice
-python100days cv practice
+# Readme
+python100days html practice
